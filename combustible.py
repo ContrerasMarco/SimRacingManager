@@ -4,9 +4,6 @@ def calcular_vuelta_rapida(tiempo_clasificacion, penalizacion):
     # Recuerda usar 'return' para enviar el resultado hacia afuera
     tiempo_final = tiempo_clasificacion + penalizacion
     return tiempo_final
-    
-
-
 # 2. PROGRAMA PRINCIPAL (Mundo exterior)
 
 # EXPERIMENTO DE SCOPE: 
